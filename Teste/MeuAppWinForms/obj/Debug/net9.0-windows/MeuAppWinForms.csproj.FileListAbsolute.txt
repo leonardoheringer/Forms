@@ -1,0 +1,14 @@
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\bin\Debug\net9.0-windows\MeuAppWinForms.exe
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\bin\Debug\net9.0-windows\MeuAppWinForms.deps.json
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\bin\Debug\net9.0-windows\MeuAppWinForms.runtimeconfig.json
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\bin\Debug\net9.0-windows\MeuAppWinForms.dll
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\bin\Debug\net9.0-windows\MeuAppWinForms.pdb
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\MeuAppWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\MeuAppWinForms.AssemblyInfoInputs.cache
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\MeuAppWinForms.AssemblyInfo.cs
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\MeuAppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\MeuAppWinForms.dll
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\refint\MeuAppWinForms.dll
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\MeuAppWinForms.pdb
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\MeuAppWinForms.genruntimeconfig.cache
+C:\Users\leona\Documentos\Dev\Teste\MeuAppWinForms\obj\Debug\net9.0-windows\ref\MeuAppWinForms.dll
